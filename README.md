@@ -1,21 +1,24 @@
-<h1 align="center">
-  <img src="assets/logo_white.png#gh-light-mode-only"  width="300">
-  <img src="assets/logo_dark.png#gh-dark-mode-only"  width="300">
-  <p>Tinydocs</p>
-</h1>
-
 <p align="center">
-Lightweight autodoc for github.
+  <img src='assets/logo.svg' width='200px' align="center"></img>
 </p>
+
+<div align="center">
+<h3 max-width='200px' align="center">Tiny Docs</h3>
+  <p><i>Lightweight autodoc for Python<br/>
+  Creates an entire documentation into a single Markdown file<br/>
+  Perfect for creating READMEs</i><br/></p>
+  <p>
+<img alt="Pepy Total Downlods" src="https://img.shields.io/pepy/dt/tinydocs?style=for-the-badge&logo=python&labelColor=white&color=blue">
+  </p>
+</div>
+
+#
 
 Are you in need of a simple and efficient solution for documenting your Python code, without the hassle of setting up and maintaining a full-fledged documentation website like `readthedocs`? Do you want something that can quickly and easily be integrated into GitHub, allowing your team to quickly access the documentation for a few classes and helper functions? Look no further!
 
 <h3 align="center">Tinydocs is right for you!</h3>
 
 `readthedocs` automatically generates the documentation of your `.py` files in a small elegant way that fits in a simple `README.md`. Check out the example function below or the [example directory.](#https://github.com/antonio-leitao/tinydocs/tree/master/example)
-
-[![Downloads](https://pepy.tech/badge/tinydocs)](https://pepy.tech/project/tinydocs)
-[![PyPI version](https://badge.fury.io/py/tinydocs.svg)](https://pypi.org/project/tinydocs/)
 
 #### Contents
 
